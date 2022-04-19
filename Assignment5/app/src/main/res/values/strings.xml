@@ -1,0 +1,747 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="Silas_Akiri">
+        1x Akiri, Line-Slinger (c16) *F*  [Commander{top}] \n
+        1x All That Glitters (eld) [Voltron] \n
+        1x Ancient Den (mb1) \n
+        1x Arcane Denial (cmr) [Adds{noPrice}] \n
+        1x Arcane Sanctum (mb1) \n
+        1x Blasphemous Act (c18) [Removal] \n
+        1x Bloodforged Battle-Axe (c17) [Cuts{noDeck}] \n
+        1x Bloodstained Mire (ktk) \n
+        1x Boros Signet (gk1) [Ramp/Fix] \n
+        1x Burnished Hart (mb1) [Ramp/Fix] \n
+        1x Chromatic Lantern (mb1) [Cuts{noDeck}] \n
+        1x Chromatic Sphere (jmp) [Adv/Draw] \n
+        1x Command Tower (eld) \n
+        1x Counterspell (tmp) [Counters] \n
+        1x Cranial Plating (c16) [Voltron] \n
+        1x Crumbling Necropolis (mb1) \n
+        1x Darksteel Citadel (2xm) \n
+        1x Deadly Dispute (afr) [Adds{noPrice}] \n
+        1x Dimir Signet (gk1) [Ramp/Fix] \n
+        1x Disallow (aer) [Counters] \n
+        1x Dispeller\'s Capsule (c16) [Removal] \n
+        1x Dovin\'s Veto (war) [Counters] \n
+        1x Drossforge Bridge (mh2) \n
+        1x Efficient Construction (aer) [Cuts{noDeck}] \n
+        1x Etherium Sculptor (c18) [Ramp/Fix] \n
+        1x Evolving Wilds (mb1) \n
+        1x Exotic Orchard (c19) \n
+        1x Fabricate (hop) [Tutors] \n
+        1x Fellwar Stone (cm2) [Ramp/Fix] \n
+        1x Final Parting (dom) [Tutors] \n
+        1x Fireshrieker (cns) [Voltron] \n
+        1x Gamble (uma) [Tutors] \n
+        1x Glimmervoid (mma) \n
+        1x Goblin Engineer (tsr) [Recursion] \n
+        1x Goldmire Bridge (mh2) \n
+        1x Great Furnace (mb1) \n
+        1x Ichor Wellspring (2xm) [Adv/Draw] \n
+        1x Inventors\' Fair (kld) \n
+        2x Island (und) 89 \n
+        1x Izzet Signet (gk1) [Ramp/Fix] \n
+        1x Jhoira, Weatherlight Captain (dom) [Cuts{noDeck}] \n
+        1x Krark-Clan Ironworks (5dn) [Misc] \n
+        1x Kuldotha Forgemaster (som) [Tutors] \n
+        1x Mask of Riddles (arb) [Infiltration] \n
+        1x Mechanized Production (aer) [Cuts{noDeck}] \n
+        1x Merciless Eviction (cm2) [Removal] \n
+        1x Mistvault Bridge (mh2) \n
+        1x Mistveil Plains (uma) \n
+        1x Moonsilver Key (mid) [Adds{noPrice}] \n
+        2x Mountain (und) 93 \n
+        1x Myr Battlesphere (c21) [TS Combos] \n
+        1x Myr Retriever (2xm) [Adds{noPrice}] \n
+        1x Mystic Monastery (c19) \n
+        1x Negate (mb1) [Counters] \n
+        1x Nomad Outpost (c17) \n
+        1x Open the Vaults (c16) [Recursion] \n
+        1x Organic Extinction (nec) [Adds{noPrice}] \n
+        1x Oswald Fiddlebender (pafr) [Adds{noPrice}] \n
+        2x Plains (und) 87 \n
+        1x Potion of Healing (afr) [Cuts{noDeck}] \n
+        1x Prairie Stream (c19) \n
+        1x Razortide Bridge (mh2) \n
+        1x Reflecting Pool (tmp) \n
+        1x Reshape (dst) [Tutors] \n
+        1x Return to Dust (c18) [Removal] \n
+        1x Rogue\'s Gloves (jmp) [Cuts{noDeck}] \n
+        1x Rogue\'s Passage (mb1) [Infiltration] \n
+        1x Rustvale Bridge (mh2) \n
+        1x Saheeli, Sublime Artificer (war) [Misc] \n
+        1x Sai, Master Thopterist (nec) [Adds{noPrice}] \n
+        1x Scrap Trawler (c21) [Adds{noPrice}] \n
+        1x Seat of the Synod (c18) \n
+        1x Silas Renn, Seeker Adept (c16) *F*  [Commander{top}] \n
+        1x Silverbluff Bridge (mh2) \n
+        1x Smoldering Marsh (bfz) \n
+        1x Smothering Tithe (rna) [Ramp/Fix] \n
+        1x Sojourner\'s Companion (mh2) [Ramp/Fix] \n
+        1x Sol Ring (3ed) [Ramp/Fix] \n
+        1x Soul-Guide Lantern (thb) [Removal] \n
+        1x Spell Swindle (xln) [Cuts{noDeck}] \n
+        1x Spire of Industry (aer) \n
+        1x Sunken Hollow (c19) \n
+        1x Swamp (und) 91 \n
+        1x Swiftfoot Boots (c18) [Voltron] \n
+        1x Sword of the Animist (mb1) [Ramp/Fix] \n
+        1x Sword of the Meek (fut) [TS Combos] \n
+        1x Talisman of Creativity (mh1) [Ramp/Fix] \n
+        1x Tamiyo\'s Journal (soi) [Adv/Draw] \n
+        1x Terramorphic Expanse (c19) \n
+        1x Thopter Assembly (ddu) [TS Combos] \n
+        1x Thopter Foundry (mb1) [TS Combos] \n
+        1x Thopter Spy Network (c18) [Adv/Draw] \n
+        1x Thought Monitor (mh2) [Adv/Draw] \n
+        1x Time Sieve (mb1) [TS Combos] \n
+        1x Tome of Legends (eld) [Adv/Draw] \n
+        1x Trading Post (m13) [Adv/Draw] \n
+        1x Trailblazer\'s Boots (zen) [Infiltration] \n
+        1x Urza\'s Bauble (5ed) [Adv/Draw] \n
+        1x Utter End (c18) [Removal] \n
+        1x Vandalblast (c15) [Removal] \n
+        1x Vault of Whispers (hop) \n
+        1x Whir of Invention (mb1) [Tutors] \n
+        1x Whirler Rogue (gnt) [Infiltration] \n
+        1x Whispersilk Cloak (mb1) [Infiltration] \n
+        1x Wings of Hubris (thb) [Infiltration] \n
+    </string>
+    <string name="unfinished_List">Izoni, Zur, and Extus do not contain completed lists,
+        select another list for demonstration of scrollability
+    </string>
+    <string name="Chromium">
+        1x Aminatou, the Fateshifter (c18) *F*  [Adds]
+1x Ancient Den (mrd)
+1x Arcane Denial (all) [Counterspells]
+1x Arcane Sanctum (c17)
+1x Arcane Signet (cmr) [Ramp/Fix]
+1x Archaeomancer\'s Map (c21) [Ramp/Fix]
+1x Ardenn, Intrepid Archaeologist (cmr) [Cuts{noDeck}]
+1x Azorius Signet (c20) [Ramp/Fix]
+1x Baleful Strix (mb1) [Draw/Adv]
+1x Brass Squire (cmr) [Cuts{noDeck}]
+1x Burnished Hart (ths) [Ramp/Fix]
+1x Caves of Koilos (c20)
+1x Chief Engineer (m15) [Cuts{noDeck}]
+1x Chromium, the Mutable (m19) [Commander{top}]
+1x Command Tower (c17)
+1x Counterspell (mh2) [Counterspells]
+1x Crush Contraband (grn) [Removal]
+1x Dakkon, Shadow Slayer (mh2) [Cheating]
+1x Damn (mh2) [Removal]
+1x Dance of the Manse (eld) [Cuts{noDeck}]
+1x Darksteel Citadel (mm2)
+1x Darksteel Forge (2xm) [Cuts{noDeck}]
+1x Darksteel Plate (ddu) [Combos]
+1x Deepglow Skate (2xm) [Adds]
+1x Digsite Engineer (c21) [Cuts{noDeck}]
+1x Disallow (aer) [Adds]
+1x Dispatch (c21) [Removal]
+1x Dispeller\'s Capsule (c21) [Removal]
+1x Dovin Baan (kld) [Adds]
+1x Dovin\'s Veto (tsr) [Counterspells]
+1x Drown in the Loch (eld) [Adds]
+1x Efficient Construction (aer) [Cuts{noDeck}]
+1x Elspeth, Knight-Errant (md1) [Adds]
+1x Elspeth, Sun\'s Champion (ddo) *F*  [Adds]
+1x Etherium Sculptor (ddu) [Cuts{noDeck}]
+1x Evolving Wilds (mb1)
+1x Expedition Map (plist) [Adds]
+1x Foundry Inspector (cmr) [Cuts{noDeck}]
+1x Fracture (stx) [Removal]
+1x Fractured Identity (c17) [Combos]
+1x Generous Gift (cmr) [Adds]
+1x Glacial Fortress (m13)
+1x Goldmire Bridge (mh2)
+1x Grand Architect (2xm) [Cuts{noDeck}]
+1x Hangarback Walker (ori) [Cuts{noDeck}]
+5x Island (m14)
+1x Isolated Chapel (md1)
+1x Kaya, Orzhov Usurper (rna) [Adds]
+1x Kuldotha Forgemaster (som) [Cuts{noDeck}]
+1x Merciless Eviction (2xm) [Removal]
+1x Meteor Golem (c21) [Cuts{noDeck}]
+1x Mind Stone (c18) [Ramp/Fix]
+1x Mistvault Bridge (mh2)
+1x Mordenkainen (afr) [Adds]
+1x Mutavault (pgpx) *F*  [Combos]
+1x Myr Turbine (mbs) [Cuts{noDeck}]
+1x Negate (m14) [Counterspells]
+1x Nettlecyst (mh2) [Cuts{noDeck}]
+1x Nihil Spellbomb (a25) [Removal]
+1x Nimbus Maze (ima)
+1x Open the Armory (cmr) [Tutors]
+1x Open the Vaults (c15) [Cuts{noDeck}]
+1x Orzhov Signet (c18) [Ramp/Fix]
+1x Padeem, Consul of Innovation (kld) [Cuts{noDeck}]
+1x Phage the Untouchable (cns) [Combos]
+1x Pili-Pala (shm) [Cuts{noDeck}]
+5x Plains (m14)
+1x Ponder (c21) [Adds]
+1x Port Town (soi)
+1x Prairie Stream (c20)
+1x Profane Tutor (mh2) [Tutors]
+1x Puresteel Paladin (nph) [Cheating]
+1x Reshape (2xm) [Cuts{noDeck}]
+1x Sai, Master Thopterist (m19) [Cuts{noDeck}]
+1x Seat of the Synod (c18)
+1x Sevinne\'s Reclamation (c19) [Recursion]
+1x Shielded by Faith (ss2) [Cuts{noDeck}]
+1x Shimmer Myr (cmr) [Cuts{noDeck}]
+1x Shineshadow Snarl (stx)
+1x Sigarda\'s Aid (cmr) [Cheating]
+1x Sojourner\'s Companion (mh2) [Ramp/Fix]
+1x Sol Ring (c14) [Ramp/Fix]
+1x Solemn Simulacrum (c14) [Ramp/Fix]
+1x Sorin, Grim Nemesis (soi) [Adds]
+1x Soul-Guide Lantern (thb) [Removal]
+1x Stinging Study (c21) [Draw/Adv]
+1x Stonehewer Giant (2xm) [Tutors]
+1x Sunken Hollow (c19)
+1x Supreme Verdict (mb1) [Adds]
+5x Swamp (m14)
+1x Talisman of Hierarchy (mh1) [Ramp/Fix]
+1x Tamiyo\'s Journal (soi) *F*  [Draw/Adv]
+1x Teferi, Master of Time (m21) [Adds]
+1x Teferi, Temporal Archmage (mb1) [Adds]
+1x Teferi, Who Slows the Sunset (mid) [Adds]
+1x Terramorphic Expanse (m11)
+1x Tevesh Szat, Doom of Fools (cmr) [Adds]
+1x Tezzeret the Schemer (aer) [Adds]
+1x Tezzeret the Seeker (mm2) [Adds]
+1x Tezzeret, Artifice Master (m19) [Adds]
+1x The Book of Exalted Deeds (afr) *F*  [Combos]
+1x The Chain Veil (plist) [Adds]
+1x Thopter Spy Network (ori) [Draw/Adv]
+1x Thought Monitor (mh2) [Cuts{noDeck}]
+1x Thoughtcast (mb1) [Cuts{noDeck}]
+1x Trading Post (mb1) [Cuts{noDeck}]
+1x Trophy Mage (aer) [Tutors]
+1x Utter End (afc) [Adds]
+1x Vanquish the Horde (mid) [Adds]
+1x Vault of Whispers (mrd)
+1x Vedalken Archmage (jmp) [Cuts{noDeck}]
+1x Vindicate (mh2) [Adds]
+1x Worldslayer (m12) [Combos]
+1x Wrath of God (2xm) [Adds]
+    </string>
+    <string name="Lazav">
+        1x Arcane Denial (mb1) [Counterspells]
+1x Arcane Signet (c21) [Ramp]
+1x Blighted Bat (jmp) [Combos]
+1x Bojuka Bog (c21)
+1x Buried Alive (cm2) [Yard Fill]
+1x Careful Study (ody) [Tutor/Draw]
+1x Carrion Feeder (mb1) [Removal]
+1x Choked Estuary (soi)
+1x Coldsteel Heart (mb1) [Ramp]
+1x Command Tower (c21)
+1x Corpse Connoisseur (ala) [Yard Fill]
+1x Counterspell (ice) [Counterspells]
+1x Curate (stx) [Tutor/Draw]
+1x Demonic Consultation (ice) [Combos]
+1x Dihada\'s Ploy (mh2) [Tutor/Draw]
+1x Dimir Aqueduct (c18)
+1x Dimir Signet (cm2) [Ramp]
+1x Doom Whisperer (grn) [Yard Fill]
+1x Doomsday (a25) [Combos]
+1x Drown in the Loch (eld) [Counterspells]
+1x Duskmantle Guildmage (gtc) [Yard Fill]
+1x Enhanced Surveillance (grn) [Recursion]
+1x Entomb (uma) [Yard Fill]
+1x Evacuation (c16) [Removal]
+1x Evolving Wilds (m20)
+1x Expropriate (mb1) [Big]
+1x Feed the Swarm (c21) [Removal]
+1x Fellwar Stone (plist) [Ramp]
+1x Final Parting (dom) [Tutor/Draw]
+1x Forbid (exo) [Counterspells]
+1x Forbidden Alchemy (mm3) [Yard Fill]
+1x Frantic Search (uma) [Tutor/Draw]
+1x Hedron Archive (jmp) [Ramp]
+1x Hero\'s Downfall (ths) [Removal]
+1x Invisible Stalker (isd) [Protection]
+15x Island (ths)
+1x Kefnet the Mindful (akh) [Protection]
+1x Laboratory Maniac (uma) [Combos]
+1x Lazav, the Multifarious (pgrn) *F*  [Commander{top}]
+1x Looter il-Kor (tsp) [Tutor/Draw]
+1x Mind Stone (dd2) [Ramp]
+1x Mirror-Mad Phantasm (isd) [Yard Fill]
+1x Mist-Cloaked Herald (m19) [Combos]
+1x Mystic Sanctuary (eld) [Recursion]
+1x Necrotic Ooze (som) [Combos]
+1x Negate (p09) [Counterspells]
+1x Nightveil Sprite (grn) [Tutor/Draw]
+1x Notion Thief (dgm) [Tutor/Draw]
+1x Oriq Loremage (stx) [Yard Fill]
+1x Palladium Myr (cm2) [Combos]
+1x Perplex (rav) [Tutor/Draw]
+1x Phyrexian Dreadnought (mir) [Combos]
+1x Pili-Pala (shm) [Combos]
+1x Prismatic Lens (tsr) [Ramp]
+1x Read the Bones (ths) [Tutor/Draw]
+1x Reality Shift (plist) [Removal]
+1x Reins of Power (c16) [Protection]
+1x Rogue\'s Passage (c15)
+1x Sign in Blood (m15) [Tutor/Draw]
+1x Sinister Sabotage (grn) [Counterspells]
+1x Sol Ring (pf19) [Ramp]
+1x Stinkweed Imp (tsr) [Yard Fill]
+1x Strategic Planning (sta) [Tutor/Draw]
+13x Swamp (war)
+1x Swiftfoot Boots (c18) [Protection]
+1x Taigam\'s Scheming (ktk) [Yard Fill]
+1x Terramorphic Expanse (c16)
+1x Traumatize (m11) [Yard Fill]
+1x Treasure Cruise (mb1) [Tutor/Draw]
+1x Tunnel Vision (rav) [Yard Fill]
+1x Vector Asp (som) [Combos]
+1x Whispering Madness (gtc) [Tutor/Draw]
+1x Windfall (cm2) [Tutor/Draw]
+1x Withered Wretch (hop) [Removal]
+    </string>
+    <string name="Marath">
+        1x Abzan Battle Priest (ima) [Misc,Combo Pile]
+1x Ajani Unyielding (c20) [Draw/Adv]
+1x Anointed Procession (akh) [For Tokens,Combo Pile]
+1x Archangel of Thune (m14) [Counter Generators,Combo Pile]
+1x Ashnod\'s Altar (chr) [Ramp/Fix,Combo Pile]
+1x Avacyn\'s Pilgrim (mb1) [Ramp/Fix]
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr) [Land]
+1x Basilisk Collar (mb1) [Removal]
+1x Blasphemous Act (c14) [Removal]
+1x Boros Charm (gtc) [Misc]
+1x Boros Garrison (c20)
+1x Canopy Vista (c20)
+1x Castle Garenbrig (eld)
+1x Cathars\' Crusade (cm2) [Counter Generators,Combo Pile]
+1x Chaos Warp (c19) [Removal]
+1x Cinder Glade (c20)
+1x Clifftop Retreat (dom)
+1x Colossal Majesty (c19) [Draw/Adv]
+1x Command Tower (c20)
+1x Conclave Mentor (m21) [Counter Generators,Combo Pile]
+1x Crush Contraband (znc) [Removal]
+1x Cryptic Trilobite (c20) [Counter Payoffs,Combo Pile]
+1x Cryptolith Rite (soi) [Ramp/Fix]
+1x Crystalline Crawler (cm2) [Counter Payoffs]
+1x Cultivate (c20) [Ramp/Fix]
+1x Divine Visitation (grn) [For Tokens]
+1x Eladamri\'s Call (mh1) [Tutors]
+1x Elvish Mystic (ddu) [Ramp/Fix]
+1x Evolutionary Leap (ori) [Draw/Adv]
+1x Evolving Wilds (iko)
+1x Faeburrow Elder (eld) [Ramp/Fix]
+1x Fervor (m13) [For Tokens]
+1x Fires of Yavimaya (mb1) [For Tokens]
+6x Forest (iko)
+1x Forgotten Ancient (c16) [Counter Generators]
+1x Green Sun\'s Zenith (ema) [Tutors]
+1x Gruul Signet (gpt) [Ramp/Fix]
+1x Gruul Turf (c20)
+1x Hardened Scales (cm2) [Counter Generators,Combo Pile]
+1x Herd Baloth (mh2) [For Tokens]
+1x Hull Breach (c13) [Removal]
+1x Hydra\'s Growth (thb) [Counter Generators]
+1x Idol of Oblivion (c19) [Draw/Adv]
+1x Illusionist\'s Bracers (gtc) [Misc,Combo Pile]
+1x Impact Tremors (mb1) [Misc,Combo Pile]
+1x Incubation Druid (rna) [Ramp/Fix]
+1x Ivy Lane Denizen (mb1) [Counter Generators,Combo Pile]
+1x Jungle Shrine (mm3)
+1x Kalonian Hydra (plist) [Counter Generators]
+1x Keen Sense (plc) [Draw/Adv]
+1x Kodama\'s Reach (c20) [Ramp/Fix]
+1x Krosan Verge (c20)
+1x Lifecrafter\'s Bestiary (c20) [Draw/Adv]
+1x Mana Echoes (ons) [Ramp/Fix]
+1x Marath, Will of the Wild (c13) [Commander{top}]
+1x Martial Coup (con) [Removal]
+1x Mentor of the Meek (c16) [Draw/Adv]
+1x Mistveil Plains (uma)
+5x Mountain (iko)
+1x Myriad Landscape (c20)
+1x Naya Charm (c19) [Recursion]
+1x Naya Panorama (c19)
+1x Opal Palace (c16)
+1x Path to Exile (pf20) *F*  [Removal]
+5x Plains (iko)
+1x Rampant Growth (mb1) [Ramp/Fix]
+1x Ranging Raptors (gn2) [Ramp/Fix]
+1x Reclamation Sage (c20) [Removal]
+1x Ripjaw Raptor (gn2) [Draw/Adv]
+1x Rootbound Crag (xln)
+1x Sacred Foundry (grn)
+1x Scurry Oak (mh2) [For Tokens,Combo Pile]
+1x Selesnya Sanctuary (c20)
+1x Shamanic Revelation (mb1) [Draw/Adv]
+1x Skullclamp (cmd) [Draw/Adv]
+1x Snake Umbra (mb1) [Draw/Adv]
+1x Sol Ring (pf19) *F*  [Ramp/Fix]
+1x Spike Feeder (cmd) [Misc,Combo Pile]
+1x Sun Titan (c20) [Recursion]
+1x Sunpetal Grove (xln)
+1x Terramorphic Expanse (c19)
+1x Unbound Flourishing (mh1) [Counter Generators]
+1x Underworld Breach (thb) [Recursion]
+1x Vandalblast (c15) [Removal]
+1x Vigor (mb1) [For Tokens]
+1x Xenagos, the Reveler (ths) [Ramp/Fix]
+1x Zendikar Resurgent (ogw) [Ramp/Fix]
+    </string>
+    <string name="Araumi">
+        1x Araumi of the Dead Tide (cmr) [Commander{top}]
+1x Arcane Denial (voc) [Counters]
+1x Arcane Signet (voc) [Ramp/Fix]
+1x Archaeomancer (mb1) [Recursion]
+1x Archaeomender (jmp) [Recursion]
+1x Baleful Strix (afc) [Draw/Advantage]
+1x Bojuka Bog (c20)
+1x Broodbirth Viper (c15) [Draw/Advantage]
+1x Careful Study (ody) [Draw/Advantage]
+1x Carrion Feeder (mb1) [Sac outlets]
+1x Champion of Wits (afc) [Draw/Advantage]
+1x Command Tower (voc)
+1x Consider (mid) [Draw/Advantage]
+1x Corpse Churn (cmr) [Yard Fill]
+1x Counterspell (mh2) [Counters]
+1x Crow of Dark Tidings (cmr) [Yard Fill]
+1x Deranged Assistant (uma) [Ramp/Fix]
+1x Dihada\'s Ploy (mh2) [Draw/Advantage]
+1x Diluvian Primordial (c21) [Fun]
+1x Drown in the Loch (eld) [Counters]
+1x Epiphany at the Drownyard (soi) [Draw/Advantage]
+1x Everflowing Chalice (plist) [Ramp/Fix]
+1x Evolving Wilds (vow)
+1x Fact or Fiction (cmr) [Draw/Advantage]
+1x Feed the Swarm (voc) [Removal]
+1x Fellwar Stone (afc) [Ramp/Fix]
+1x Fleshbag Marauder (mic) [Removal]
+1x Floating-Dream Zubera (chk) [Draw/Advantage]
+1x Forbid (exo) [Counters]
+1x Forbidden Alchemy (afc) [Draw/Advantage]
+1x Frantic Search (c20) [Draw/Advantage]
+1x Gray Merchant of Asphodel (thb) [Combo]
+16x Island (vow) 399
+1x Magewright\'s Stone (dis) [Taps]
+1x Massacre Wurm (m21) [Removal]
+1x Meteor Golem (afc) [Removal]
+1x Millikin (mh2) [Ramp/Fix]
+1x Mind Stone (afc) [Ramp/Fix]
+1x Mnemonic Wall (mb1) [Recursion]
+1x Mulldrifter (afc) [Draw/Advantage]
+1x Negate (znr) [Counters]
+1x Otherworldly Gaze (mid) [Draw/Advantage]
+1x Panharmonicon (plist) [Combo]
+1x Plaguecrafter (afc) [Removal]
+1x Prismatic Lens (tsr) [Ramp/Fix]
+1x Ravenform (khm) [Removal]
+1x Reality Shift (plist) [Removal]
+1x Resculpt (stx) [Removal]
+1x Rings of Brighthearth (cmr) [Fun]
+1x Skyscanner (m21) [Draw/Advantage]
+1x Sol Ring (voc) [Ramp/Fix]
+1x Solemn Simulacrum (afc) [Ramp/Fix]
+1x Stinkweed Imp (mb1) [Yard Fill]
+1x Stitcher\'s Supplier (plist) [Yard Fill]
+1x Strategic Planning (cmr) [Draw/Advantage]
+1x Sundial of the Infinite (fmb1) *F*  [Fun]
+1x Sunken Hollow (afc)
+15x Swamp (vow) 400
+1x Terramorphic Expanse (afc)
+1x Thirst for Discovery (vow) [Draw/Advantage]
+1x Thousand-Year Elixir (c21) [Taps]
+1x Tribute Mage (mh1) [Draw/Advantage]
+1x Trophy Mage (ddu) [Draw/Advantage]
+1x Undead Butler (vow) [Yard Fill]
+1x Unwind (dom) [Counters]
+1x Victimize (afc) [Recursion]
+1x Vile Entomber (mh2) [Yard Fill]
+1x Village Rites (sta) [Draw/Advantage]
+1x Viscera Seer (cmr) [Sac outlets]
+1x Vizier of Tumbling Sands (c20) [Taps]
+1x Wonder (mh2) [Fun]
+    </string>
+    <string name="Osgir">
+        1x Alibou, Ancient Witness (c21) [Cuts{noDeck}{noPrice}]
+1x Ancient Den (c21)
+1x Angel of the Ruins (c21) [Removal]
+1x Arcane Signet (c21) [Ramp/Fix]
+1x Archaeomancer\'s Map (c21) [Ramp/Fix]
+1x Audacious Reshapers (c21) [Draw/Adv]
+1x Battlefield Forge (c21)
+1x Battlemage\'s Bracers (c21) [Misc]
+1x Boros Charm (c21) [Protection]
+1x Boros Garrison (c21)
+1x Boros Locket (c21) [Ramp/Fix]
+1x Boros Signet (cmr) [Adds{noPrice}]
+1x Bosh, Iron Golem (c21) [Cuts{noDeck}{noPrice}]
+1x Bronze Guardian (c21) [Protection]
+1x Burnished Hart (c21) [Ramp/Fix]
+1x Chain Reaction (c21) [Removal]
+1x Cleansing Nova (c21) [Removal]
+1x Combustible Gearhulk (c21) [Draw/Adv]
+1x Command Tower (c21)
+1x Commander\'s Sphere (c21) [Ramp/Fix]
+1x Cursed Mirror (c21) [Ramp/Fix]
+1x Daretti, Scrap Savant (c21) [Draw/Adv]
+1x Darksteel Citadel (c21)
+1x Darksteel Mutation (c21) [Removal]
+1x Digsite Engineer (c21) [Misc]
+1x Dispatch (c21) [Removal]
+1x Dispeller\'s Capsule (c21) [Removal]
+1x Duplicant (c21) [Misc]
+1x Excavation Technique (c21) [Removal]
+1x Exotic Orchard (c21)
+1x Faithless Looting (c21) [Draw/Adv]
+1x Feldon of the Third Path (c21) [Recursion]
+1x Forgotten Cave (c21)
+1x Foundry Inspector (cmr) [Adds{noPrice}]
+1x Great Furnace (c21)
+1x Hedron Archive (c21) [Ramp/Fix]
+1x Hellkite Igniter (c21) [Misc]
+1x Hellkite Tyrant (c21) [Cuts{noDeck}{noPrice}]
+1x Hoard-Smelter Dragon (c21) [Removal]
+1x Ichor Wellspring (c21) [Draw/Adv]
+1x Isochron Scepter (2xm) [Adds{noPrice}]
+1x Jhoira\'s Familiar (2xm) [Adds{noPrice}]
+1x Jor Kadeen, the Prevailer (c21) [Cuts{noDeck}{noPrice}]
+1x Key to the City (c21) [Misc]
+1x Laelia, the Blade Reforged (c21) [Cuts{noDeck}{noPrice}]
+1x Lorehold Campus (stx)
+1x Losheel, Clockwork Scholar (c21) [Cuts{noDeck}{noPrice}]
+1x Magewright\'s Stone (dis) [Adds{noPrice}]
+1x Meteor Golem (c21) [Removal]
+1x Mind Stone (c21) [Ramp/Fix]
+1x Mistveil Plains (uma) [Adds{noPrice}]
+1x Monologue Tax (c21) [Ramp/Fix]
+2x Mountain (afr) [Cuts{noDeck}{noPrice}]
+10x Mountain (afr)
+1x Mycosynth Wellspring (c21) [Ramp/Fix]
+1x Myr Battlesphere (c21) [Misc]
+1x Myr Retriever (2xm) [Adds{noPrice}]
+1x Myriad Landscape (c21)
+1x Osgir, the Reconstructor (c21) [Commander{top}]
+1x Oswald Fiddlebender (afr) [Adds{noPrice}]
+1x Phyrexia\'s Core (c21)
+1x Pia Nalaar (c21) [Cuts{noDeck}{noPrice}]
+1x Pilgrim\'s Eye (c21) [Ramp/Fix]
+1x Plains (afr) [Cuts{noDeck}{noPrice}]
+7x Plains (afr)
+1x Pull from Eternity (tsp) [Adds{noPrice}]
+1x Quicksmith Genius (c21) [Draw/Adv]
+1x Reckless Fireweaver (mb1) [Adds{noPrice}]
+1x Reconstruct History (stx) [Recursion]
+1x Return to Dust (c21) [Removal]
+1x Rings of Brighthearth (cmr) [Adds{noPrice}]
+1x Rip Apart (stx) [Removal]
+1x Rogue\'s Passage (c21)
+1x Rout (c21) [Removal]
+1x Ruin Grinder (c21) [Draw/Adv]
+1x Sanctum Gargoyle (c21) [Cuts{noDeck}{noPrice}]
+1x Scrap Mastery (cm2) [Adds{noPrice}]
+1x Scrap Trawler (c21) [Recursion]
+1x Sculpting Steel (c21) [Misc]
+1x Secluded Steppe (c21)
+1x Secret Rendezvous (stx) [Cuts{noDeck}{noPrice}]
+1x Skyscanner (m21) [Adds{noPrice}]
+1x Slayers\' Stronghold (c21)
+1x Sol Ring (c21) [Ramp/Fix]
+1x Solemn Simulacrum (c21) [Draw/Adv]
+1x Steel Hellkite (c21) [Removal]
+1x Steel Overseer (c21) [Cuts{noDeck}{noPrice}]
+1x Study Hall (c21)
+1x Sun Titan (c21) [Recursion]
+1x Sunhome, Fortress of the Legion (c21)
+1x Talisman of Conviction (mh1) [Adds{noPrice}]
+1x Temple of Triumph (c21)
+1x Temple of the False God (c21)
+1x Thopter Engineer (c21) [Cuts{noDeck}{noPrice}]
+1x Thousand-Year Elixir (c21) [Misc]
+1x Triplicate Titan (c21) [Misc]
+1x Ugin\'s Nexus (ktk) [Adds{noPrice}]
+1x Unstable Obelisk (c21) [Cuts{noDeck}{noPrice}]
+1x Wake the Past (c21) [Recursion]
+    </string>
+    <string name="Shorikai">
+        1x Access Denied (nec)
+1x Aerial Surveyor (nec)
+1x Aeronaut Admiral (nec)
+1x Arcane Signet (nec)
+1x Arcanist\'s Owl (nec)
+1x Armed and Armored (nec)
+1x Azorius Signet (nec)
+1x Cataclysmic Gearhulk (nec)
+1x Colossal Plow (nec)
+1x Command Tower (nec)
+1x Crush Contraband (nec)
+1x Cultivator\'s Caravan (nec)
+1x Cyberdrive Awakener (nec)
+1x Dance of the Manse (nec)
+1x Dispatch (nec)
+1x Drumbellower (nec)
+1x Emry, Lurker of the Loch (nec)
+1x Etherium Sculptor (nec)
+1x Exotic Orchard (nec)
+1x Fellwar Stone (nec)
+1x Foundry Inspector (nec)
+1x Generous Gift (nec)
+1x Gold Myr (nec)
+1x Hanna, Ship\'s Navigator (nec)
+1x Imperial Recovery Unit (neo)
+1x Imposter Mech (nec)
+1x Indomitable Archangel (nec)
+1x Ironsoul Enforcer (nec)
+15x Island (neo) 285
+1x Jace, Architect of Thought (nec)
+1x Kappa Cannoneer (nec)
+1x Katsumasa, the Animator (nec)
+1x Kotori, Pilot Prodigy (nec) [Commander{top}]
+1x Master of Etherium (nec)
+1x Mirage Mirror (nec)
+1x Mobilizer Mech (neo)
+1x Myrsmith (nec)
+1x Organic Extinction (nec)
+1x Parhelion II (nec)
+1x Peacewalker Colossus (nec)
+15x Plains (neo) 283
+1x Port Town (nec)
+1x Prairie Stream (nec)
+1x Prodigy\'s Prototype (neo)
+1x Raff Capashen, Ship\'s Mage (nec)
+1x Raiders\' Karve (nec)
+1x Reality Shift (nec)
+1x Release to Memory (nec)
+1x Research Thief (nec)
+1x Riddlesmith (nec)
+1x Sai, Master Thopterist (nec)
+1x Shimmer Myr (nec)
+1x Shorikai, Genesis Engine (nec)
+1x Silver Myr (nec)
+1x Skycloud Expanse (nec)
+1x Skysovereign, Consul Flagship (nec)
+1x Smuggler\'s Copter (nec)
+1x Sol Ring (nec)
+1x Solemn Simulacrum (nec)
+1x Spire of Industry (nec)
+1x Sram, Senior Edificer (nec)
+1x Surgehacker Mech (neo)
+1x Swift Reconfiguration (nec)
+1x Swords to Plowshares (nec)
+1x Temple of Enlightenment (nec)
+1x Teshar, Ancestor\'s Apostle (nec)
+1x Thopter Spy Network (nec)
+1x Thoughtcast (nec)
+1x Universal Surveillance (nec)
+1x Vedalken Engineer (nec)
+1x Weatherlight (nec)
+1x Whirler Rogue (nec)
+    </string>
+    <string name="Tuvasa">
+        1x Abundance (c17) [Draw/Etc.]
+1x Ancestral Mask (ema) [Voltron]
+1x Approach of the Second Sun (mb1) [Alt WinCons]
+1x Archetype of Imagination (c18) [Infiltration]
+1x Ashiok\'s Erasure (thb) [Adds]
+1x Aura Thief (uds) [Alt WinCons]
+1x Azorius Chancery (gk2)
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr) [Adds]
+1x Bant Charm (c18) [Counters]
+1x Bant Panorama (cma)
+1x Bear Umbra (c18) [Ramp]
+1x Beast Within (cmr) [Adds]
+1x Blossoming Sands (m20) [Cuts{noDeck}]
+1x Brushland (ath) [Adds]
+1x Canopy Vista (c20) [Adds]
+1x Cast Out (akh) [Cuts{noDeck}]
+1x Command Tower (c18)
+1x Conviction (mb1) [Cuts{noDeck}]
+1x Corrupted Conscience (mbs) [Voltron]
+1x Counterspell (plgm) [Counters]
+1x Courser of Kruphix (mb1) [Ramp]
+1x Cultivate (afc) [Adds]
+1x Curator\'s Ward (dom) [Adds]
+1x Dance of the Manse (eld) [Recursion]
+1x Darksteel Mutation (cma) [Removal]
+1x Dawn\'s Reflection (mb1) [Adds]
+1x Divine Reckoning (c19) [Removal]
+1x Eidolon of Blossoms (c18) [Draw/Etc.]
+1x Eldrazi Conscription (uma) [Voltron]
+1x Enchanted Evening (shm) [Alt WinCons]
+1x Enchantress\'s Presence (c18) [Draw/Etc.]
+1x Estrid\'s Invocation (c18) [Cheating]
+1x Estrid, the Masked (c18) *F*  [Recursion]
+1x Ethereal Armor (rtr) [Voltron]
+1x Evolutionary Leap (tsr) [Adds]
+1x Evolving Wilds (ptkdf)
+1x Explosive Vegetation (c18) [Cuts{noDeck}]
+1x Fertile Ground (c18) [Ramp]
+1x Flickering Ward (tmp) [Adds]
+6x Forest (cst)
+1x Freed from the Real (a25) [Adds]
+1x Generous Gift (mh1) [Removal]
+1x Ghostly Prison (pca) [Cuts{noDeck}]
+1x Glacial Fortress (pxln)
+1x Grasp of Fate (mb1) [Adds]
+1x Graypelt Refuge (c17) [Cuts{noDeck}]
+1x Hall of Heliod\'s Generosity (mh1) [Recursion]
+1x Idyllic Tutor (pthb) [Draw/Etc.]
+1x Imprisoned in the Moon (emn) [Removal]
+6x Island (pal06)
+1x Karmic Justice (c15) [Cuts{noDeck}]
+1x Kodama\'s Reach (uma) [Ramp]
+1x Krosan Verge (c18)
+1x Leyline of Anticipation (m20) [Cheating]
+1x Luminarch Ascension (a25) [Alt WinCons]
+1x Market Festival (jou) [Ramp]
+1x Mesa Enchantress (ema) [Draw/Etc.]
+1x Mirari\'s Wake (c17) [Ramp]
+1x Naturalize (m19) [Cuts{noDeck}]
+1x Nimbus Maze (ima) [Adds]
+1x Oblivion Ring (mm2) [Cuts{noDeck}]
+1x Open the Vaults (c16) [Recursion]
+1x Overgrowth (c18) [Ramp]
+1x Phyrexian Rebirth (c18) [Cuts{noDeck}]
+7x Plains (pal05)
+1x Prairie Stream (pss1)
+1x Privileged Position (gk1) [Protection/Etc.]
+1x Propaganda (c16) [Cuts{noDeck}]
+1x Rampant Growth (afc) [Adds]
+1x Reliquary Tower (m19)
+1x Return to Dust (c18) [Removal]
+1x Rewind (mm3) [Cuts{noDeck}]
+1x Rogue\'s Passage (uma) [Cuts{noDeck}]
+1x Sanctum Weaver (mh2) [Adds]
+1x Satyr Enchanter (m19) [Draw/Etc.]
+1x Seaside Citadel (c18)
+1x Seedborn Muse (c19) [Cheating]
+1x Sejiri Refuge (c18) [Cuts{noDeck}]
+1x Selesnya Sanctuary (gk1)
+1x Setessan Champion (pthb) [Draw/Etc.]
+1x Shielded by Faith (c15) [Adds]
+1x Sigil of the Empty Throne (c18) [Alt WinCons]
+1x Simic Growth Chamber (gk2)
+1x Sphere of Safety (c16) [Cuts{noDeck}]
+1x Starfield of Nyx (ori) [Recursion]
+1x Steel of the Godhead (ddi) [Infiltration]
+1x Sterling Grove (inv) [Protection/Etc.]
+1x Stony Silence (mm3) [Cuts{noDeck}]
+1x Sun Titan (cm2) [Cuts{noDeck}]
+1x Sunpetal Grove (pxln)
+1x Swords to Plowshares (cst) [Removal]
+1x Sythis, Harvest\'s Hand (mh2) [Adds]
+1x Terramorphic Expanse (tsr) [Adds]
+1x Thassa, God of the Sea (ths) [Infiltration]
+1x Thornwood Falls (m20) [Cuts{noDeck}]
+1x Tranquil Cove (m20) [Cuts{noDeck}]
+1x Tuvasa the Sunlit (c18) *F*  [Commander{top}]
+1x Unquestioned Authority (c18) [Infiltration]
+1x Verduran Enchantress (9ed) [Draw/Etc.]
+1x Wargate (mb1) [Draw/Etc.]
+1x Wild Growth (c18) [Ramp]
+1x Winds of Rath (ddl) [Adds]
+1x Wolfwillow Haven (thb) [Ramp]
+    </string>
+</resources>
